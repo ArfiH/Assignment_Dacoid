@@ -12,7 +12,7 @@
 
 #main {
     width: 3vm;
-    margin: 50px auto;
+    margin: 10px auto;
     padding: 2rem 1rem;
     background-color: white;
     border-radius: 10px;
@@ -43,7 +43,7 @@ button {
 }
 
 #terms label {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
 }
 
 #member {
