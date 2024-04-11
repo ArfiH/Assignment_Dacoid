@@ -39,5 +39,5 @@ button {
     width: 90%;
     cursor: pointer;
     color: #fff;
-    background: #4f549c;
+    background-image: linear-gradient(to right, #6478eb 0%, #4c49e9 50%, #4428e2 100%);
 }
