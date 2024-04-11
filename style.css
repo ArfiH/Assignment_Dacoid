@@ -97,5 +97,25 @@ svg {
 
 .skip {
     margin-top: -1rem;
+    margin-bottom: 2rem;
     text-align: right;
 }
+
+.track>h3 {
+    margin-top: 2rem;
+    text-align: left;
+}
+
+.track>p {
+    margin-top: 1rem;
+    text-align: left;
+    font-size: 0.9rem;
+    color: gray;
+}
+
+.ldBar-label {
+    color: rgb(255, 255, 255);
+    font-family: 'varela round';
+    font-size: 2.5em;
+    font-weight: 900;
+  }
