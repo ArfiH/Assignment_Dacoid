@@ -32,6 +32,7 @@ form input {
 button {
     font-size: 1rem;
     margin-top: 1.8rem;
+    margin-bottom: 1rem;
     padding: 10px 0;
     border-radius: 20px;
     outline: none;
@@ -60,4 +61,41 @@ button {
 #recover a{
     text-decoration: none;
     color: gray;
+}
+
+.line{
+    position: relative;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    background-color: #d4d4d4;
+}
+
+#social-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h6 {
+    width: 100%; 
+    text-align: center;
+    color: gray;
+    border-bottom: 1px solid gray; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+h6 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+
+svg {
+    display: block;
+    margin: auto;
+}
+
+.skip {
+    margin-top: -1rem;
+    text-align: right;
 }
