@@ -41,3 +41,23 @@ button {
     color: #fff;
     background-image: linear-gradient(to right, #6478eb 0%, #4c49e9 50%, #4428e2 100%);
 }
+
+#terms label {
+    font-size: 0.7rem;
+}
+
+#member {
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+}
+
+#recover {
+    font-size: 0.75rem;
+    text-align: left;
+    margin: 0.3rem 0rem 7.2rem 1.4rem ;
+}
+
+#recover a{
+    text-decoration: none;
+    color: gray;
+}
