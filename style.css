@@ -136,3 +136,9 @@ svg {
     top: -17.5px;
     left: 221px;
 }
+
+#cardImage {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
