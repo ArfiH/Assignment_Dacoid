@@ -252,7 +252,7 @@ wrap = function(content){
     }
     dom = {
       attr: {
-        "xmlns:xlink": 'http://www.w3.org/1999/xlink',
+        "xmlns:xlink": '',
         preserveAspectRatio: config["aspect-ratio"],
         width: "100%",
         height: "100%"
@@ -583,8 +583,8 @@ wrap = function(content){
       svg.appendChild(group[1]);
     }
     svg.attrs({
-      width: '100%',
-      height: '100%'
+      width: '50%',
+      height: '50%'
     });
     this.transition = {
       value: {
