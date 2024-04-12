@@ -583,8 +583,8 @@ wrap = function(content){
       svg.appendChild(group[1]);
     }
     svg.attrs({
-      width: '50%',
-      height: '50%'
+      width: '60%',
+      height: '60%'
     });
     this.transition = {
       value: {
